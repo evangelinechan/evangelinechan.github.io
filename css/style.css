@@ -18,7 +18,7 @@ html {
 body {
 	margin: 0;
 	padding: 0;                      
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 	line-height: 30px;
 	color: #333;
@@ -30,14 +30,14 @@ body {
 }
 
 p {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin: 0px 0px 20px 0px;
   color: #333;
 }
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Playfair Display', serif;  
+  font-family: 'Lustria', serif;  
   color:#282828;
   line-height:1.2em;    
   margin:0px 0px 20px 0px;
@@ -45,12 +45,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h1 a {
-  font-family: 'Playfair Display', serif;  
-  font-size:42px;
+  font-family: 'Damion', cursive;  
+  font-size:72px;
   color:#282828;
   font-weight:200;
-  line-height:.5em;    
-  margin:0px 0px 20px 0px;  
+  line-height:1.3em;    
+  margin:0px 0px 0px 0px;  
 }
 
 
@@ -64,7 +64,7 @@ h2, h2 a {
 
 
 h3, h3 a {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Lustria', serif;
   font-size:30px;
   color:#282828;
   margin:0px 0px 50px 0px;
@@ -72,17 +72,17 @@ h3, h3 a {
 }
 
 h4, h4 a {
-  font-family: 'Playfair Display', serif; 
-  font-size:22px;
+  font-family: 'Lustria', serif; 
+  font-size:26px;
   font-weight:300;
   color: #333;
-  line-height:1.5em;
+  line-height:1.4em;
   margin:0px 0px 20px 0px;
 }
 
 
 h5, h5 a{
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size:16px;
   color:#000000;
   margin:0px 0px 60px 0px;
@@ -92,7 +92,7 @@ h5, h5 a{
 }
 
 h6, h6 a{
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 15px;
   color: #777777;
   margin: 0px 0px 15px 0px;
@@ -102,7 +102,7 @@ h6, h6 a{
 }
 
 .img-title {
-  font-family: 'Playfair Display', serif; 
+  font-family: 'Lustria', serif; 
   font-size:26px;
   font-weight:200;
   color: #333;
@@ -112,7 +112,7 @@ h6, h6 a{
 }
 
 .img-title-zero {
-  font-family: 'Playfair Display', serif; 
+  font-family: 'Lustria', serif; 
   font-size:26px;
   font-weight:200;
   color: #333;
@@ -122,7 +122,7 @@ h6, h6 a{
 }
 
 .caption {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   color: #434343;
   text-align: center;
@@ -191,7 +191,7 @@ footer {
 
 .footer-h4 {
   color:#333;
-  font-family: 'Playfair Display', serif; 
+  font-family: 'Lustria', serif; 
   font-size:22px;
   font-weight:300;
   line-height:1.5em;
@@ -390,7 +390,7 @@ img.brand:hover  {
 }
 
 .parallax h3{
-  font-family: "Open Sans";
+  font-family: 'Open Sans';
   color: #FFFFFF;
 }
 
@@ -1551,7 +1551,7 @@ a.meanmenu-reveal {
 	line-height: 22px;
 	font-size: 1px;
 	display: block;
-	font-family: "Open Sans", sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
   -webkit-transition: all 0ms ease-in; 
      -moz-transition: all 0ms ease-in;
@@ -2243,7 +2243,7 @@ hr.blog{
 }
 
 .shop-item-name {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size:18px;
   padding:20px 0px 8px 0px;
   text-align:center;
@@ -2615,7 +2615,7 @@ hr.blog{
   color: #777777;
   background:#FFFFFF;
   border: 1px solid transparent;
-  font-family: "Open Sans";
+  font-family: 'Open Sans';
   font-size:14px;
   -webkit-transition: all 0s; 
      -moz-transition: all 0s;
@@ -3146,7 +3146,7 @@ ul.none {
   border: 0px;
   margin-bottom: 8px;
   border: none;
-  font-family: "Open Sans";
+  font-family: 'Open Sans';
   font-size:14px;
   font-weight:700;
   -webkit-transition: all 200ms ease-in !important; 
@@ -3988,7 +3988,7 @@ blockquote {
   border: 0px;
   margin-bottom: 8px;
   border: none;
-  font-family: "Open Sans";
+  font-family: 'Open Sans';
   font-size:14px;
   font-weight:700;
   -webkit-transition: all 200ms ease-in !important; 
