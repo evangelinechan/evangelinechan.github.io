@@ -2640,6 +2640,54 @@ hr.blog{
 
 }
 
+/*	Resume Download */
+
+#Resume{
+  margin:0px 0px 20px 0px;
+  padding: 0px 0px;
+  overflow:hidden;
+}
+    
+#Resume li {
+  list-style:none;
+  float:none;
+  margin-right:10px;
+  margin-top:0px;
+  padding:0px 0px 12px 0px;
+}
+ 
+/*	side bar */    
+#Resume li a {
+  padding:0px 0px 12px 0px;
+  margin:0px;
+  border:0px;
+  color: #777777;
+  background:#FFFFFF;
+  border: 1px solid transparent;
+  font-family: 'Open Sans';
+  font-size:14px;
+  -webkit-transition: all 0s; 
+     -moz-transition: all 0s;
+      -ms-transition: all 0s;
+       -o-transition: all 0s;
+          transition: all 0s;   
+}
+ 
+#Resume li:hover a {
+  color: #333;
+  background:#FFFFFF;
+  border-bottom: 1px solid #adadad;
+  padding-bottom: 6px;
+}
+
+    
+#Resume li.act a {
+  color: #333;
+  background:#FFFFFF;
+  border-bottom: 1px solid #333;
+  padding-bottom: 6px;
+
+}
 
 	/*	Portfolio - Isotype (filtering tags) */
 
